@@ -1,0 +1,17 @@
+<body>
+    <div id="app">
+        Hallo perkenalkan nama saya <b>{{ nama }}</b>
+    </div>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script>
+        const app = Vue.createApp({
+            data(){
+                return {
+                    nama: "Beltra Saura Rahmadan"
+                }
+            }
+        })
+
+        app.mount('#app')
+    </script>
+</body>

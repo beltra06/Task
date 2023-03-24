@@ -1,0 +1,13 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "perkenalan.html"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
